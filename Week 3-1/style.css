@@ -1,0 +1,30 @@
+body{
+    background-color: burlywood;
+    color: rgb(76, 46, 46);   
+}
+
+
+nav{
+    height: 6000px;
+    width: 200px ;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+} /*px stands for pixels*/
+
+
+footer{
+    text-align: center;
+    margin-right: 200px;
+}
+
+
+#memeimage {
+    margin-right: 200px;
+    text-align: center;
+} /*#memeimage is an ID*/
+
+
+header{
+    text-align: center;
+}
