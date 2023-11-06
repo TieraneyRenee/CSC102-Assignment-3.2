@@ -21,7 +21,7 @@ function checkCreds() {
     zipCode = document.getElementById("zipCode").value; //working on inputting zipcode
     console.log("The zipcode was input as " + zipCode)
 
-    fullName = firstName + " " + lastName; //' " " ' is concantination. Working on inputting the full name
+    fullName = firstName + " " + lastName; //' " " ' is concatenation. Working on inputting the full name
     console.log("The fullname was input as " + fullName)
 
     fullNameLength = fullName.length; //working on inputting the full name length
